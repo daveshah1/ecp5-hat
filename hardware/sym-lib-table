@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name soc_hat_parts)(type Legacy)(uri /home/david/ecp5_soc_hat/ecp5_soc_hat/soc_hat_parts.lib)(options "")(descr ""))
+  (lib (name soc_hat_parts)(type Legacy)(uri ${KIPRJMOD}/soc_hat_parts.lib)(options "")(descr ""))
 )
